@@ -1,4 +1,4 @@
-# algotrading_simulation_project
+# Algotrading Simulation Project
 Algotrading Simulation Project
 In this project, we develop an algorithmic trading strategy based on ML decisions designed to predict daily stock market direction with the goal of outperforming the market. The project combines the two types of statistical learning methods learned in the Data Analytics course with financial data analysis knowledge from our Finance specialization to simulate a trading strategy based on predicted stock movements.
 
